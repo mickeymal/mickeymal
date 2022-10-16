@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mickeymal
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning c++ its not going well
